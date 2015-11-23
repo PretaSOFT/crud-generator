@@ -1,17 +1,23 @@
 {
-    "name": "appzcoder/crud-generator",
+    "name": "pretasoft/crud-generator",
     "license": "MIT",
-    "description": "Laravel 5 CRUD Generator",
+    "description": "Laravel 5 CRUD Generator integrated with AdminLTE",
     "keywords": [
         "laravel",
         "crud",
-        "crud generator"
+        "crud generator",
+        'AdminLTE'
     ],
     "authors": [
         {
             "name": "Sohel Amin",
             "email": "sohelamincse@gmail.com",
             "homepage": "http://www.appzcoder.com"
+        },
+        {
+            "name": "Aleksander Cynarski",
+            "email": "paramah@pretasoft.pl",
+            "homepage": "http://www.pretasoft.pl"
         }
     ],
     "require": {
